@@ -2,6 +2,8 @@
 
 My (**accepted**) submission for the Swift Student Challenge 2020. 
 
+You can also see the [video on YouTube](https://youtu.be/PBUt_Ra_MH8). 
+
 In this Swift Student Challenge, I wanted to make people wonder and learn about something they don’t fully understand, and are in constant contact with — FaceTime.
 
 This repository contains a PlaygroundBook designed to work with Playgrounds on macOS and some Processing code to create one animation used in the playground. 
