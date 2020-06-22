@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>bit</key>
+		<dict>
+			<key>Title</key>
+			<string>Bit</string>
+			<key>Definition</key>
+			<string>Bit is just a fancy word for &quot;`0` or `1`&quot;...</string>
+		</dict>
+		<key>byte</key>
+		<dict>
+			<key>Title</key>
+			<string>Byte</string>
+			<key>Definition</key>
+			<string>Byte, here, is not the charismatic character from Learn to Code... It&apos;s just a sequence of 8 [bits](glossary://bit). </string>
+		</dict>
+		<key>binary</key>
+		<dict>
+			<key>Title</key>
+			<string>Binary number</string>
+			<key>Definition</key>
+			<string>A binary number is just like a regular number, but instead of writing it with digits from `0` to `9`, we just use `0` and `1`. For example, `9` in binary form becomes `1001`!</string>
+		</dict>
+		<key>pixel</key>
+		<dict>
+			<key>Definition</key>
+			<string>A pixel is the smallest element in a screen. You can think of it as a point that has a color. </string>
+			<key>Title</key>
+			<string>Pixel</string>
+		</dict>
+		<key>message</key>
+		<dict>
+			<key>Definition</key>
+			<string>A message is just information that you want to send. It can be text, audio, video, photos, or whatever you want!</string>
+			<key>Title</key>
+			<string>Message</string>
+		</dict>
+		<key>package</key>
+		<dict>
+			<key>Definition</key>
+			<string>A package is a small piece of a message. If you assemble several packages, you can get a full message. </string>
+			<key>Title</key>
+			<string>Package</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
